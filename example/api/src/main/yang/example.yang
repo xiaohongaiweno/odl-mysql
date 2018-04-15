@@ -1,0 +1,23 @@
+module example {
+    yang-version 1;
+    namespace "urn:opendaylight:params:xml:ns:yang:example";
+    prefix "example";
+
+    revision "2015-01-05" {
+        description "Initial revision of example model";
+    }
+
+    rpc hello-world {
+        input {
+            leaf name {
+                type string;
+            }
+        }
+
+        output {
+            leaf greating {
+                type string;
+            }
+        }
+    }
+}
