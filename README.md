@@ -18,3 +18,7 @@ https://xiaohongaiweno.github.io/blog/
 
 
 
+![我要小额赞助，鼓励作者写出更好的教程](https://raw.githubusercontent.com/xiaohongaiweno/blog/master/assets/img/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E7%A0%81.png)
+
+
+
