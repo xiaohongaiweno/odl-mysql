@@ -16,9 +16,9 @@ https://xiaohongaiweno.github.io/blog/sdn%E5%BC%80%E5%8F%91/2017/09/20/ODL%E4%B8
 https://xiaohongaiweno.github.io/blog/
 
 
+5、小额赞助，鼓励作者写出更好的教程
 
-
-![111111](https://raw.githubusercontent.com/xiaohongaiweno/blog/master/assets/img/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E7%A0%81.png)
+![](https://raw.githubusercontent.com/xiaohongaiweno/blog/master/assets/img/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E7%A0%81.png)
 
 
 
